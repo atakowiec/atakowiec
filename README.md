@@ -4,8 +4,8 @@ I am a junior full stack web developer with a passion for creating functional an
 
 🔭 I’m currently working on [Bricks Battle game](https://github.com/atakowiec/bricks-battle-game) and it's going to be my greatest app.
 <h3>Languages:</h3>
-<img src="https://github-profile-skills-one.vercel.app/skill?margin-w=10&skills=https://raw.githubusercontent.com/atakowiec/atakowiec/main/main-skills.json" alt="languages">
+<img src="https://github-profile-skills-one.vercel.app/skill?margin-w=10&theme=nord&skills=https://raw.githubusercontent.com/atakowiec/atakowiec/main/main-skills.json" alt="languages">
 <h4>Libraries:</h4>
-<img src="https://github-profile-skills-one.vercel.app/skill?margin-w=10&skills=https://raw.githubusercontent.com/atakowiec/atakowiec/main/libraries.json" alt="skills">
+<img src="https://github-profile-skills-one.vercel.app/skill?margin-w=10&theme=nord&skills=https://raw.githubusercontent.com/atakowiec/atakowiec/main/libraries.json" alt="skills">
 <h4>Other skills:</h4>
-<img src="https://github-profile-skills-one.vercel.app/skill?margin-w=10&skills=https://raw.githubusercontent.com/atakowiec/atakowiec/main/other-skills.json" alt="skills">
+<img src="https://github-profile-skills-one.vercel.app/skill?margin-w=10&theme=nord&skills=https://raw.githubusercontent.com/atakowiec/atakowiec/main/other-skills.json" alt="skills">

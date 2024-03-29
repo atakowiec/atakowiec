@@ -1,0 +1,22 @@
+[
+    {
+        "skill": "nestjs",
+        "level": "A"
+    },
+    {
+        "skill": "express",
+        "level": "B"
+    },
+    {
+        "skill": "react",
+        "level": "B"
+    },
+    {
+        "skill": "redux",
+        "level": "B"
+    },
+    {
+        "skill": "laravel",
+        "level": "B"
+    }
+]

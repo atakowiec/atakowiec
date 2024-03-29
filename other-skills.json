@@ -1,0 +1,14 @@
+[
+    {
+        "skill": "git",
+        "level": "A"
+    },
+    {
+        "skill": "docker",
+        "level": "B"
+    },
+    {
+        "skill": "postman",
+        "level": "B"
+    }
+]

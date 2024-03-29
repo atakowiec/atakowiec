@@ -1,0 +1,42 @@
+[
+    {
+        "skill": "typescript",
+        "level": "A"
+    },
+    {
+        "skill": "javascript",
+        "level": "A"
+    },
+    {
+        "skill": "tsnode",
+        "level": "A"
+    },
+    {
+        "skill": "mysql",
+        "level": "A"
+    },
+    {
+        "skill": "mongodb",
+        "level": "B"
+    },
+    {
+        "skill": "html5",
+        "level": "A"
+    },
+    {
+        "skill": "css3",
+        "level": "A"
+    },
+    {
+        "skill": "sass",
+        "level": "B"
+    },
+    {
+        "skill": "php",
+        "level": "B"
+    },
+    {
+        "skill": "java",
+        "level": "B"
+    }
+]

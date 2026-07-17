@@ -4,11 +4,95 @@
         "level": "A"
     },
     {
+        "skill": "junit",
+        "level": "B"
+    },
+    {
+        "skill": "jira",
+        "level": "B"
+    },
+    {
+        "skill": "maven",
+        "level": "B"
+    },
+    {
         "skill": "docker",
         "level": "B"
     },
     {
+        "skill": "kubernetes",
+        "level": "B"
+    },
+    {
+        "skill": "figma",
+        "level": "B"
+    },
+    {
         "skill": "postman",
+        "level": "B"
+    },
+    {
+        "skill": "grafana",
+        "level": "B"
+    },
+    {
+        "skill": "prometheus",
+        "level": "B"
+    },
+    {
+        "skill": "rest",
+        "level": "A"
+    },
+    {
+        "skill": "graphql",
+        "level": "B"
+    },
+    {
+        "skill": "soap",
+        "level": "B"
+    },
+    {
+        "skill": "grpc",
+        "level": "B"
+    },
+    {
+        "skill": "kafka",
+        "level": "B"
+    },
+    {
+        "skill": "rabbitmq",
+        "level": "B"
+    },
+    {
+        "skill": "microservices",
+        "level": "B"
+    },
+    {
+        "skill": "cicd",
+        "level": "B"
+    },
+    {
+        "skill": "oop",
+        "level": "A"
+    },
+    {
+        "skill": "solid",
+        "level": "A"
+    },
+    {
+        "skill": "cleancode",
+        "level": "A"
+    },
+    {
+        "skill": "designpatterns",
+        "level": "B"
+    },
+    {
+        "skill": "owasp",
+        "level": "B"
+    },
+    {
+        "skill": "wcag",
         "level": "B"
     }
 ]

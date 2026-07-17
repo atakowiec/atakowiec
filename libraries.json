@@ -1,5 +1,25 @@
 [
     {
+        "skill": "spring",
+        "level": "A"
+    },
+    {
+        "skill": "javaee",
+        "level": "B"
+    },
+    {
+        "skill": "jpa",
+        "level": "B"
+    },
+    {
+        "skill": "hibernate",
+        "level": "B"
+    },
+    {
+        "skill": "nodejs",
+        "level": "A"
+    },
+    {
         "skill": "nestjs",
         "level": "A"
     },
@@ -8,7 +28,31 @@
         "level": "B"
     },
     {
+        "skill": "typeorm",
+        "level": "B"
+    },
+    {
+        "skill": "laravel",
+        "level": "B"
+    },
+    {
+        "skill": "yii",
+        "level": "B"
+    },
+    {
+        "skill": "angular",
+        "level": "B"
+    },
+    {
         "skill": "react",
+        "level": "B"
+    },
+    {
+        "skill": "nextjs",
+        "level": "B"
+    },
+    {
+        "skill": "reactnative",
         "level": "B"
     },
     {
@@ -16,7 +60,15 @@
         "level": "B"
     },
     {
-        "skill": "laravel",
+        "skill": "rxjs",
+        "level": "B"
+    },
+    {
+        "skill": "tailwindcss",
+        "level": "B"
+    },
+    {
+        "skill": "bootstrap",
         "level": "B"
     }
 ]

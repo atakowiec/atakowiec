@@ -1,5 +1,9 @@
 [
     {
+        "skill": "java",
+        "level": "A"
+    },
+    {
         "skill": "typescript",
         "level": "A"
     },
@@ -8,16 +12,12 @@
         "level": "A"
     },
     {
-        "skill": "tsnode",
-        "level": "A"
-    },
-    {
-        "skill": "mysql",
-        "level": "A"
-    },
-    {
-        "skill": "mongodb",
+        "skill": "php",
         "level": "B"
+    },
+    {
+        "skill": "sql",
+        "level": "A"
     },
     {
         "skill": "html5",
@@ -32,11 +32,19 @@
         "level": "B"
     },
     {
-        "skill": "php",
+        "skill": "mysql",
+        "level": "A"
+    },
+    {
+        "skill": "postgresql",
         "level": "B"
     },
     {
-        "skill": "java",
+        "skill": "mongodb",
+        "level": "B"
+    },
+    {
+        "skill": "redis",
         "level": "B"
     }
 ]
